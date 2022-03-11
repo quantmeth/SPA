@@ -1,2 +1,2 @@
 # SPA
-Sequential Parallel Analysis
+Sequential Parallel Analysis (in development)
