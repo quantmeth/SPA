@@ -1,2 +1,2 @@
-# SPA
-Sequential Parallel Analysis (in development)
+# PPA
+Progressive Parallel Analysis (in development)
